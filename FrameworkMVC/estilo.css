@@ -1,0 +1,35 @@
+{
+    margin: 1px;
+}
+
+body 
+{
+
+
+    background-size: cover;
+    font-family: Bahnschrift, Comic Sans MS, "Calibri";
+    position: relative;
+}
+
+#ENCABEZADO 
+{
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    width: 400px;
+    margin: 6px auto;
+}
+
+#dato
+{
+    width: 400px;
+    margin: 6px auto;
+    color: yellow;
+}
+
+
+h1
+{
+    display: inline-block;
+    position: relative;
+}
